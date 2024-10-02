@@ -1,0 +1,6 @@
+pymongo
+gdeltdoc
+newspaper3k
+openai
+streamlit
+pandas

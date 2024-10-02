@@ -1,0 +1,8 @@
+nytimes.com
+wsj.com
+bloomberg.com
+cnbc.com
+reuters.com
+marketwatch.com
+seekingalpha.com
+foxbusiness.com
